@@ -1,3 +1,16 @@
+# Ignore projects
+.ipynb_checkpoints
+downloads
+ffmpeg
+models-master
+UCF-101
+
+# Data
+*.pickle
+*.tar.gz
+*.zip
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
