@@ -4,6 +4,7 @@ downloads
 ffmpeg
 models-master
 UCF-101
+mule
 
 # Data
 *.pickle
